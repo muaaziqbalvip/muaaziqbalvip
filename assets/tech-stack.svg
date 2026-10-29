@@ -1,0 +1,206 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="tsTitle tsDesc">
+  <title id="tsTitle">Muaaz Iqbal — technology stack</title>
+  <desc id="tsDesc">Languages, frameworks, AI and automation, infrastructure and media tools used across Mizanora products.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#08130F"/>
+      <stop offset="1" stop-color="#0D211A"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0" r="0.8">
+      <stop offset="0" stop-color="#3EE0A2" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#3EE0A2" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="1.3" cy="1.3" r="1" fill="#9CF0CC" fill-opacity="0.07"/>
+    </pattern>
+    <style>
+      .scan { animation: scan 8s linear infinite; }
+      @keyframes scan { 0% { transform: translateX(-260px); } 100% { transform: translateX(1240px); } }
+      .p1 { animation: fade 6s ease-in-out infinite; }
+      .p2 { animation: fade 6s ease-in-out 2s infinite; }
+      .p3 { animation: fade 6s ease-in-out 4s infinite; }
+      @keyframes fade { 0%,100% { opacity: .15; } 50% { opacity: .8; } }
+    </style>
+  </defs>
+  <rect width="1200" height="430" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="430" rx="24" fill="url(#dots)"/>
+  <rect width="1200" height="430" rx="24" fill="url(#glow)"/>
+  <rect x="1" y="1" width="1198" height="428" rx="23" fill="none" stroke="#64E7B0" stroke-opacity="0.12"/>
+  <rect width="1200" height="2.5" fill="#64E7B0" fill-opacity="0.55"/>
+  <g class="scan" opacity="0.5">
+    <rect x="0" y="0" width="180" height="430" fill="#64E7B0" fill-opacity="0.045"/>
+  </g>
+  <circle class="p1" cx="1110" cy="34" r="2.4" fill="#64E7B0"/>
+  <circle class="p2" cx="1150" cy="26" r="2" fill="#F1C86A"/>
+  <circle class="p3" cx="1070" cy="26" r="1.8" fill="#8CB4FF"/>
+  <text x="72" y="121" fill="#64E7B0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" font-weight="600" letter-spacing="2.4" opacity="0.9">LANGUAGES</text>
+  <g>
+    <rect x="240" y="96" width="89.8" height="40" rx="20" fill="#0C1F1A" stroke="#64E7B0" stroke-opacity="0.28"/>
+    <circle cx="256.0" cy="116" r="3.2" fill="#64E7B0" fill-opacity="0.85"/>
+    <text x="268.0" y="121.5" fill="#DCEFE6" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.2" font-weight="500" letter-spacing="0.2">Python</text>
+  </g>
+  <g>
+    <rect x="339.8" y="96" width="125.0" height="40" rx="20" fill="#0C1F1A" stroke="#64E7B0" stroke-opacity="0.28"/>
+    <circle cx="355.8" cy="116" r="3.2" fill="#64E7B0" fill-opacity="0.85"/>
+    <text x="367.8" y="121.5" fill="#DCEFE6" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.2" font-weight="500" letter-spacing="0.2">TypeScript</text>
+  </g>
+  <g>
+    <rect x="474.8" y="96" width="125.0" height="40" rx="20" fill="#0C1F1A" stroke="#64E7B0" stroke-opacity="0.28"/>
+    <circle cx="490.8" cy="116" r="3.2" fill="#64E7B0" fill-opacity="0.85"/>
+    <text x="502.8" y="121.5" fill="#DCEFE6" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.2" font-weight="500" letter-spacing="0.2">JavaScript</text>
+  </g>
+  <g>
+    <rect x="609.8" y="96" width="89.8" height="40" rx="20" fill="#0C1F1A" stroke="#64E7B0" stroke-opacity="0.28"/>
+    <circle cx="625.8" cy="116" r="3.2" fill="#64E7B0" fill-opacity="0.85"/>
+    <text x="637.8" y="121.5" fill="#DCEFE6" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.2" font-weight="500" letter-spacing="0.2">Kotlin</text>
+  </g>
+  <g>
+    <rect x="709.5999999999999" y="96" width="72.2" height="40" rx="20" fill="#0C1F1A" stroke="#64E7B0" stroke-opacity="0.28"/>
+    <circle cx="725.6" cy="116" r="3.2" fill="#64E7B0" fill-opacity="0.85"/>
+    <text x="737.6" y="121.5" fill="#DCEFE6" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.2" font-weight="500" letter-spacing="0.2">Java</text>
+  </g>
+  <g>
+    <rect x="791.8" y="96" width="81.0" height="40" rx="20" fill="#0C1F1A" stroke="#64E7B0" stroke-opacity="0.28"/>
+    <circle cx="807.8" cy="116" r="3.2" fill="#64E7B0" fill-opacity="0.85"/>
+    <text x="819.8" y="121.5" fill="#DCEFE6" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.2" font-weight="500" letter-spacing="0.2">HTML5</text>
+  </g>
+  <g>
+    <rect x="882.8" y="96" width="72.2" height="40" rx="20" fill="#0C1F1A" stroke="#64E7B0" stroke-opacity="0.28"/>
+    <circle cx="898.8" cy="116" r="3.2" fill="#64E7B0" fill-opacity="0.85"/>
+    <text x="910.8" y="121.5" fill="#DCEFE6" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.2" font-weight="500" letter-spacing="0.2">CSS3</text>
+  </g>
+  <g>
+    <rect x="965" y="96" width="72.2" height="40" rx="20" fill="#0C1F1A" stroke="#64E7B0" stroke-opacity="0.28"/>
+    <circle cx="981.0" cy="116" r="3.2" fill="#64E7B0" fill-opacity="0.85"/>
+    <text x="993.0" y="121.5" fill="#DCEFE6" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.2" font-weight="500" letter-spacing="0.2">Bash</text>
+  </g>
+  <text x="72" y="181" fill="#8CB4FF" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" font-weight="600" letter-spacing="2.4" opacity="0.9">FRAMEWORKS</text>
+  <g>
+    <rect x="240" y="156" width="81.0" height="40" rx="20" fill="#0C1F1A" stroke="#8CB4FF" stroke-opacity="0.28"/>
+    <circle cx="256.0" cy="176" r="3.2" fill="#8CB4FF" fill-opacity="0.85"/>
+    <text x="268.0" y="181.5" fill="#DCEFE6" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.2" font-weight="500" letter-spacing="0.2">React</text>
+  </g>
+  <g>
+    <rect x="331" y="156" width="125.0" height="40" rx="20" fill="#0C1F1A" stroke="#8CB4FF" stroke-opacity="0.28"/>
+    <circle cx="347.0" cy="176" r="3.2" fill="#8CB4FF" fill-opacity="0.85"/>
+    <text x="359.0" y="181.5" fill="#DCEFE6" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.2" font-weight="500" letter-spacing="0.2">Next.js 15</text>
+  </g>
+  <g>
+    <rect x="466" y="156" width="142.6" height="40" rx="20" fill="#0C1F1A" stroke="#8CB4FF" stroke-opacity="0.28"/>
+    <circle cx="482.0" cy="176" r="3.2" fill="#8CB4FF" fill-opacity="0.85"/>
+    <text x="494.0" y="181.5" fill="#DCEFE6" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.2" font-weight="500" letter-spacing="0.2">Tailwind CSS</text>
+  </g>
+  <g>
+    <rect x="618.6" y="156" width="169.0" height="40" rx="20" fill="#0C1F1A" stroke="#8CB4FF" stroke-opacity="0.28"/>
+    <circle cx="634.6" cy="176" r="3.2" fill="#8CB4FF" fill-opacity="0.85"/>
+    <text x="646.6" y="181.5" fill="#DCEFE6" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.2" font-weight="500" letter-spacing="0.2">Jetpack Compose</text>
+  </g>
+  <g>
+    <rect x="797.6" y="156" width="72.2" height="40" rx="20" fill="#0C1F1A" stroke="#8CB4FF" stroke-opacity="0.28"/>
+    <circle cx="813.6" cy="176" r="3.2" fill="#8CB4FF" fill-opacity="0.85"/>
+    <text x="825.6" y="181.5" fill="#DCEFE6" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.2" font-weight="500" letter-spacing="0.2">Vite</text>
+  </g>
+  <g>
+    <rect x="879.8000000000001" y="156" width="98.6" height="40" rx="20" fill="#0C1F1A" stroke="#8CB4FF" stroke-opacity="0.28"/>
+    <circle cx="895.8" cy="176" r="3.2" fill="#8CB4FF" fill-opacity="0.85"/>
+    <text x="907.8" y="181.5" fill="#DCEFE6" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.2" font-weight="500" letter-spacing="0.2">Node.js</text>
+  </g>
+  <g>
+    <rect x="988.4000000000001" y="156" width="81.0" height="40" rx="20" fill="#0C1F1A" stroke="#8CB4FF" stroke-opacity="0.28"/>
+    <circle cx="1004.4" cy="176" r="3.2" fill="#8CB4FF" fill-opacity="0.85"/>
+    <text x="1016.4" y="181.5" fill="#DCEFE6" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.2" font-weight="500" letter-spacing="0.2">Flask</text>
+  </g>
+  <text x="72" y="241" fill="#F1C86A" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" font-weight="600" letter-spacing="2.4" opacity="0.9">AI &amp; AUTOMATION</text>
+  <g>
+    <rect x="240" y="216" width="72.2" height="40" rx="20" fill="#0C1F1A" stroke="#F1C86A" stroke-opacity="0.28"/>
+    <circle cx="256.0" cy="236" r="3.2" fill="#F1C86A" fill-opacity="0.85"/>
+    <text x="268.0" y="241.5" fill="#DCEFE6" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.2" font-weight="500" letter-spacing="0.2">Groq</text>
+  </g>
+  <g>
+    <rect x="322.2" y="216" width="89.8" height="40" rx="20" fill="#0C1F1A" stroke="#F1C86A" stroke-opacity="0.28"/>
+    <circle cx="338.2" cy="236" r="3.2" fill="#F1C86A" fill-opacity="0.85"/>
+    <text x="350.2" y="241.5" fill="#DCEFE6" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.2" font-weight="500" letter-spacing="0.2">Gemini</text>
+  </g>
+  <g>
+    <rect x="422" y="216" width="89.8" height="40" rx="20" fill="#0C1F1A" stroke="#F1C86A" stroke-opacity="0.28"/>
+    <circle cx="438.0" cy="236" r="3.2" fill="#F1C86A" fill-opacity="0.85"/>
+    <text x="450.0" y="241.5" fill="#DCEFE6" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.2" font-weight="500" letter-spacing="0.2">OpenAI</text>
+  </g>
+  <g>
+    <rect x="521.8" y="216" width="89.8" height="40" rx="20" fill="#0C1F1A" stroke="#F1C86A" stroke-opacity="0.28"/>
+    <circle cx="537.8" cy="236" r="3.2" fill="#F1C86A" fill-opacity="0.85"/>
+    <text x="549.8" y="241.5" fill="#DCEFE6" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.2" font-weight="500" letter-spacing="0.2">Claude</text>
+  </g>
+  <g>
+    <rect x="621.5999999999999" y="216" width="72.2" height="40" rx="20" fill="#0C1F1A" stroke="#F1C86A" stroke-opacity="0.28"/>
+    <circle cx="637.6" cy="236" r="3.2" fill="#F1C86A" fill-opacity="0.85"/>
+    <text x="649.6" y="241.5" fill="#DCEFE6" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.2" font-weight="500" letter-spacing="0.2">Qwen</text>
+  </g>
+  <g>
+    <rect x="703.8" y="216" width="133.8" height="40" rx="20" fill="#0C1F1A" stroke="#F1C86A" stroke-opacity="0.28"/>
+    <circle cx="719.8" cy="236" r="3.2" fill="#F1C86A" fill-opacity="0.85"/>
+    <text x="731.8" y="241.5" fill="#DCEFE6" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.2" font-weight="500" letter-spacing="0.2">Whisper STT</text>
+  </g>
+  <g>
+    <rect x="847.5999999999999" y="216" width="107.4" height="40" rx="20" fill="#0C1F1A" stroke="#F1C86A" stroke-opacity="0.28"/>
+    <circle cx="863.6" cy="236" r="3.2" fill="#F1C86A" fill-opacity="0.85"/>
+    <text x="875.6" y="241.5" fill="#DCEFE6" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.2" font-weight="500" letter-spacing="0.2">edge-tts</text>
+  </g>
+  <g>
+    <rect x="964.9999999999999" y="216" width="116.2" height="40" rx="20" fill="#0C1F1A" stroke="#F1C86A" stroke-opacity="0.28"/>
+    <circle cx="981.0" cy="236" r="3.2" fill="#F1C86A" fill-opacity="0.85"/>
+    <text x="993.0" y="241.5" fill="#DCEFE6" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.2" font-weight="500" letter-spacing="0.2">Vision AI</text>
+  </g>
+  <text x="72" y="301" fill="#FF9BC4" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" font-weight="600" letter-spacing="2.4" opacity="0.9">DATA &amp; CLOUD</text>
+  <g>
+    <rect x="240" y="276" width="107.4" height="40" rx="20" fill="#0C1F1A" stroke="#FF9BC4" stroke-opacity="0.28"/>
+    <circle cx="256.0" cy="296" r="3.2" fill="#FF9BC4" fill-opacity="0.85"/>
+    <text x="268.0" y="301.5" fill="#DCEFE6" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.2" font-weight="500" letter-spacing="0.2">Firebase</text>
+  </g>
+  <g>
+    <rect x="357.4" y="276" width="116.2" height="40" rx="20" fill="#0C1F1A" stroke="#FF9BC4" stroke-opacity="0.28"/>
+    <circle cx="373.4" cy="296" r="3.2" fill="#FF9BC4" fill-opacity="0.85"/>
+    <text x="385.4" y="301.5" fill="#DCEFE6" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.2" font-weight="500" letter-spacing="0.2">Firestore</text>
+  </g>
+  <g>
+    <rect x="483.59999999999997" y="276" width="89.8" height="40" rx="20" fill="#0C1F1A" stroke="#FF9BC4" stroke-opacity="0.28"/>
+    <circle cx="499.6" cy="296" r="3.2" fill="#FF9BC4" fill-opacity="0.85"/>
+    <text x="511.6" y="301.5" fill="#DCEFE6" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.2" font-weight="500" letter-spacing="0.2">Vercel</text>
+  </g>
+  <g>
+    <rect x="583.4" y="276" width="160.2" height="40" rx="20" fill="#0C1F1A" stroke="#FF9BC4" stroke-opacity="0.28"/>
+    <circle cx="599.4" cy="296" r="3.2" fill="#FF9BC4" fill-opacity="0.85"/>
+    <text x="611.4" y="301.5" fill="#DCEFE6" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.2" font-weight="500" letter-spacing="0.2">GitHub Actions</text>
+  </g>
+  <g>
+    <rect x="753.6" y="276" width="160.2" height="40" rx="20" fill="#0C1F1A" stroke="#FF9BC4" stroke-opacity="0.28"/>
+    <circle cx="769.6" cy="296" r="3.2" fill="#FF9BC4" fill-opacity="0.85"/>
+    <text x="781.6" y="301.5" fill="#DCEFE6" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.2" font-weight="500" letter-spacing="0.2">Serverless API</text>
+  </g>
+  <text x="72" y="361" fill="#9EE7FF" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" font-weight="600" letter-spacing="2.4" opacity="0.9">MEDIA &amp; APPS</text>
+  <g>
+    <rect x="240" y="336" width="89.8" height="40" rx="20" fill="#0C1F1A" stroke="#9EE7FF" stroke-opacity="0.28"/>
+    <circle cx="256.0" cy="356" r="3.2" fill="#9EE7FF" fill-opacity="0.85"/>
+    <text x="268.0" y="361.5" fill="#DCEFE6" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.2" font-weight="500" letter-spacing="0.2">FFmpeg</text>
+  </g>
+  <g>
+    <rect x="339.8" y="336" width="89.8" height="40" rx="20" fill="#0C1F1A" stroke="#9EE7FF" stroke-opacity="0.28"/>
+    <circle cx="355.8" cy="356" r="3.2" fill="#9EE7FF" fill-opacity="0.85"/>
+    <text x="367.8" y="361.5" fill="#DCEFE6" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.2" font-weight="500" letter-spacing="0.2">hls.js</text>
+  </g>
+  <g>
+    <rect x="439.6" y="336" width="142.6" height="40" rx="20" fill="#0C1F1A" stroke="#9EE7FF" stroke-opacity="0.28"/>
+    <circle cx="455.6" cy="356" r="3.2" fill="#9EE7FF" fill-opacity="0.85"/>
+    <text x="467.6" y="361.5" fill="#DCEFE6" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.2" font-weight="500" letter-spacing="0.2">Shaka Player</text>
+  </g>
+  <g>
+    <rect x="592.2" y="336" width="63.4" height="40" rx="20" fill="#0C1F1A" stroke="#9EE7FF" stroke-opacity="0.28"/>
+    <circle cx="608.2" cy="356" r="3.2" fill="#9EE7FF" fill-opacity="0.85"/>
+    <text x="620.2" y="361.5" fill="#DCEFE6" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.2" font-weight="500" letter-spacing="0.2">PWA</text>
+  </g>
+  <g>
+    <rect x="665.6" y="336" width="213.0" height="40" rx="20" fill="#0C1F1A" stroke="#9EE7FF" stroke-opacity="0.28"/>
+    <circle cx="681.6" cy="356" r="3.2" fill="#9EE7FF" fill-opacity="0.85"/>
+    <text x="693.6" y="361.5" fill="#DCEFE6" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.2" font-weight="500" letter-spacing="0.2">XLSX / CSV pipelines</text>
+  </g>
+</svg>

@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="70" viewBox="0 0 1200 70" role="img" aria-labelledby="tTitle">
+  <title id="tTitle">Mizanora ecosystem — Mizanora, Asaan Lang, BarakatWave TV, SIRAVEX, MI Trade Master, Noor AI, HijriAnchor</title>
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#64E7B0" stop-opacity="0"/>
+      <stop offset="0.2" stop-color="#64E7B0" stop-opacity="0.55"/>
+      <stop offset="0.8" stop-color="#F1C86A" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#F1C86A" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="fadeL" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#08130F" stop-opacity="1"/>
+      <stop offset="1" stop-color="#08130F" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="fadeR" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#08130F" stop-opacity="0"/>
+      <stop offset="1" stop-color="#08130F" stop-opacity="1"/>
+    </linearGradient>
+    <clipPath id="win"><rect x="0" y="0" width="1200" height="70"/></clipPath>
+  </defs>
+  <rect width="1200" height="70" fill="#08130F"/>
+  <line x1="0" y1="0.6" x2="1200" y2="0.6" stroke="url(#line)"/>
+  <line x1="0" y1="69.4" x2="1200" y2="69.4" stroke="url(#line)"/>
+  <g clip-path="url(#win)">
+    <g>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-2155.6 0" dur="26s" repeatCount="indefinite"/>
+      <g transform="translate(0 0)"><text x="0" y="39" fill="#64E7B0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" font-weight="600" letter-spacing="2.6">MIZANORA</text>
+    <circle cx="145.2" cy="34" r="2.6" fill="#3D6B5B"/>
+<text x="209.2" y="39" fill="#DDEBE4" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" font-weight="600" letter-spacing="2.6">ASAAN LANG</text>
+    <circle cx="379.2" cy="34" r="2.6" fill="#3D6B5B"/>
+<text x="443.2" y="39" fill="#F1C86A" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" font-weight="600" letter-spacing="2.6">BARAKATWAVE TV</text>
+    <circle cx="662.8" cy="34" r="2.6" fill="#3D6B5B"/>
+<text x="726.8" y="39" fill="#64E7B0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" font-weight="600" letter-spacing="2.6">SIRAVEX</text>
+    <circle cx="859.5999999999999" cy="34" r="2.6" fill="#3D6B5B"/>
+<text x="923.5999999999999" y="39" fill="#DDEBE4" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" font-weight="600" letter-spacing="2.6">MI TRADE MASTER</text>
+    <circle cx="1155.6" cy="34" r="2.6" fill="#3D6B5B"/>
+<text x="1219.6" y="39" fill="#F1C86A" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" font-weight="600" letter-spacing="2.6">NOOR AI</text>
+    <circle cx="1352.3999999999999" cy="34" r="2.6" fill="#3D6B5B"/>
+<text x="1416.3999999999999" y="39" fill="#64E7B0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" font-weight="600" letter-spacing="2.6">HIJRIANCHOR</text>
+    <circle cx="1598.8" cy="34" r="2.6" fill="#3D6B5B"/>
+<text x="1662.8" y="39" fill="#DDEBE4" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" font-weight="600" letter-spacing="2.6">MUSLIM ISLAM</text>
+    <circle cx="1857.6" cy="34" r="2.6" fill="#3D6B5B"/>
+<text x="1921.6" y="39" fill="#F1C86A" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" font-weight="600" letter-spacing="2.6">KASUR · PK</text>
+    <circle cx="2091.6" cy="34" r="2.6" fill="#3D6B5B"/></g>
+      <g transform="translate(2155.6 0)"><text x="0" y="39" fill="#64E7B0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" font-weight="600" letter-spacing="2.6">MIZANORA</text>
+    <circle cx="145.2" cy="34" r="2.6" fill="#3D6B5B"/>
+<text x="209.2" y="39" fill="#DDEBE4" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" font-weight="600" letter-spacing="2.6">ASAAN LANG</text>
+    <circle cx="379.2" cy="34" r="2.6" fill="#3D6B5B"/>
+<text x="443.2" y="39" fill="#F1C86A" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" font-weight="600" letter-spacing="2.6">BARAKATWAVE TV</text>
+    <circle cx="662.8" cy="34" r="2.6" fill="#3D6B5B"/>
+<text x="726.8" y="39" fill="#64E7B0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" font-weight="600" letter-spacing="2.6">SIRAVEX</text>
+    <circle cx="859.5999999999999" cy="34" r="2.6" fill="#3D6B5B"/>
+<text x="923.5999999999999" y="39" fill="#DDEBE4" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" font-weight="600" letter-spacing="2.6">MI TRADE MASTER</text>
+    <circle cx="1155.6" cy="34" r="2.6" fill="#3D6B5B"/>
+<text x="1219.6" y="39" fill="#F1C86A" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" font-weight="600" letter-spacing="2.6">NOOR AI</text>
+    <circle cx="1352.3999999999999" cy="34" r="2.6" fill="#3D6B5B"/>
+<text x="1416.3999999999999" y="39" fill="#64E7B0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" font-weight="600" letter-spacing="2.6">HIJRIANCHOR</text>
+    <circle cx="1598.8" cy="34" r="2.6" fill="#3D6B5B"/>
+<text x="1662.8" y="39" fill="#DDEBE4" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" font-weight="600" letter-spacing="2.6">MUSLIM ISLAM</text>
+    <circle cx="1857.6" cy="34" r="2.6" fill="#3D6B5B"/>
+<text x="1921.6" y="39" fill="#F1C86A" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" font-weight="600" letter-spacing="2.6">KASUR · PK</text>
+    <circle cx="2091.6" cy="34" r="2.6" fill="#3D6B5B"/></g>
+    </g>
+  </g>
+  <rect x="0" y="0" width="150" height="70" fill="url(#fadeL)"/>
+  <rect x="1050" y="0" width="150" height="70" fill="url(#fadeR)"/>
+</svg>
