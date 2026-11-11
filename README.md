@@ -3,10 +3,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg" />
-  <img src="./assets/hero.svg" alt="Muaaz Iqbal — full-stack developer, AI orchestrator and founder of Mizanora. Kasur, Punjab, Pakistan, with a live local-time clock." width="100%" />
+  <img src="./assets/hero.svg" alt="Muaaz Iqbal — full-stack developer, AI builder and founder of Mizanora. Animated banner with a live card, rotating rings, a breathing LIVE dot and a waveform equalizer." width="100%" />
 </picture>
 
-<sub>🕒 The clock in the banner is <b>live</b> — it follows Pakistan Standard Time (UTC+5) and keeps ticking in your browser.</sub>
+<sub>The banner keeps moving on its own — a sweeping light across the name, rotating rings, a breathing LIVE dot, twinkling lights and a waveform equalizer. Pure SVG, no JavaScript, and it respects <b>prefers-reduced-motion</b>.</sub>
 
 <br /><br />
 
@@ -20,13 +20,30 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/ticker.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/ticker-light.svg" />
-  <img src="./assets/ticker.svg" alt="Mizanora ecosystem: Mizanora, Asaan Lang, BarakatWave TV, SIRAVEX, MI Trade Master, Noor AI, Mizanora TV, Muslim Islam, Kasur" width="100%" />
+  <img src="./assets/ticker.svg" alt="Mizanora ecosystem: Mizanora, Asaan Lang, BarakatWave TV, SIRAVEX, MI Trade Master, Noor AI, HijriAnchor, Muslim Islam, Kasur" width="100%" />
 </picture>
 
 <br />
 
-<a name="about" id="about"></a>
-<a href="#about"><b>About</b></a> &nbsp;·&nbsp; <a href="#projects"><b>Projects</b></a> &nbsp;·&nbsp; <a href="#stack"><b>Stack</b></a> &nbsp;·&nbsp; <a href="#story"><b>Story</b></a> &nbsp;·&nbsp; <a href="#free-tools"><b>Free tools</b></a> &nbsp;·&nbsp; <a href="#contact"><b>Contact</b></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/live.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/live-light.svg" />
+  <img src="./assets/live.svg" alt="Live right now: Mizanora live channel, Quran and Hadith 24/7, repositories, stars and followers" width="100%" />
+</picture>
+
+<sub>↑ The live card keeps breathing on its own — pulse, equalizer bars and scan line are drawn inside the SVG itself.</sub>
+
+<br />
+
+<p align="center">
+  <a href="#-about"><b>About</b></a> &nbsp;·&nbsp;
+  <a href="#-photos"><b>Photos</b></a> &nbsp;·&nbsp;
+  <a href="#-projects"><b>Projects</b></a> &nbsp;·&nbsp;
+  <a href="#-stack"><b>Stack</b></a> &nbsp;·&nbsp;
+  <a href="#-story"><b>Story</b></a> &nbsp;·&nbsp;
+  <a href="#-free-tools"><b>Free tools</b></a> &nbsp;·&nbsp;
+  <a href="#-contact"><b>Contact</b></a>
+</p>
 
 </div>
 
@@ -34,7 +51,9 @@
 
 <table>
 <tr>
-<td width="61%" valign="top">
+<td width="62%" valign="top">
+
+<a name="about" id="about"></a>
 
 ### Assalamu Alaikum, I'm Muaaz 👋
 
@@ -52,14 +71,14 @@ believing   honest prices, halal earning, privacy by default
 ```
 
 </td>
-<td width="39%" valign="top">
+<td width="38%" valign="top">
 
 **Quick facts**
 
 | | |
 |:--|:--|
 | 📍 **Based in** | Kasur, Punjab, PK |
-| 🕒 **Local time** | PKT · UTC+5 (live clock above) |
+| 🕒 **Local time** | PKT · UTC+5 |
 | 🎂 **Born** | 27 November 2009 |
 | 🎓 **Studying** | ICS, Islamia Graduate College |
 | 🚀 **Founded** | Mizanora · Muslim Islam Org |
@@ -73,11 +92,31 @@ believing   honest prices, halal earning, privacy by default
 </tr>
 </table>
 
+<br />
+
+<div align="center">
+
+<a name="photos" id="photos"></a>
+
+## 📸 Photos
+
+Every picture below is served from this repository — no third-party host, nothing to 404, nothing hotlink-blocked.
+
+| :---: | :---: | :---: | :---: |
+| <img src="./assets/photos/muaaz-iqbal-01.jpg" alt="Muaaz Iqbal, founder and developer of Mizanora, Kasur Punjab Pakistan" width="170" /> | <img src="./assets/photos/muaaz-iqbal-02.jpg" alt="Muaaz Iqbal, developer and AI builder from Kasur, Pakistan" width="170" /> | <img src="./assets/photos/muaaz-iqbal-03.jpg" alt="Muaaz Iqbal, creator of Asaan Lang, the Urdu programming language" width="170" /> | <img src="./assets/photos/muaaz-iqbal-04.jpg" alt="Muaaz Iqbal, founder of Mizanora online marketplace" width="170" /> |
+| <img src="./assets/photos/muaaz-iqbal-05.jpg" alt="Muaaz Iqbal, full-stack developer, Islamia Graduate College Kasur" width="170" /> | <img src="./assets/photos/muaaz-iqbal-06.jpg" alt="Muaaz Iqbal, AI-native builder from Punjab, Pakistan" width="170" /> | <img src="./assets/photos/muaaz-iqbal-07.jpg" alt="Muaaz Iqbal, maker of the HijriAnchor calendar app" width="170" /> | <img src="./assets/photos/muaaz-iqbal-08.jpg" alt="Muaaz Iqbal, founder of Mizanora, Shop Smart Shop Halal" width="170" /> |
+
+<sub>The full-size set also lives on <a href="https://mizanora.vercel.app/muaaz-iqbal">mizanora.vercel.app/muaaz-iqbal</a>.</sub>
+
+</div>
+
+<br />
+
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/stats.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/stats-light.svg" />
-  <img src="./assets/stats.svg" alt="By the numbers: 90 public repositories, 13.7 MB of code, 11,000+ products, 800 live channels, 38 free tools" width="100%" />
+  <img src="./assets/stats.svg" alt="By the numbers: public repositories, stars, Mizanora products, live channels, free tools and shipped projects" width="100%" />
 </picture>
 </div>
 
@@ -97,7 +136,7 @@ believing   honest prices, halal earning, privacy by default
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/projects.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/projects-light.svg" />
-  <img src="./assets/projects.svg" alt="Six flagship projects: Mizanora, Asaan Lang, BarakatWave TV, SIRAVEX, MI Trade Master and MI Trade Master Bot, with key facts and stack" width="100%" />
+  <img src="./assets/projects.svg" alt="Featured projects: Mizanora, Asaan Lang, BarakatWave TV, SIRAVEX, MI Trade Master and MI Trade Master Bot" width="100%" />
 </picture>
 </div>
 
@@ -108,16 +147,16 @@ believing   honest prices, halal earning, privacy by default
 <td width="50%" valign="top">
 
 #### 🛍️ Mizanora — *the shop*
-**`Next.js 15` · `React` · `Tailwind` · `Firebase` · `PWA`**
-[**Live store →**](https://mizanora.vercel.app)
+**`Next.js 15`** · **`React`** · **`Tailwind`** · **`Firebase`** · **`PWA`**
+[**Live store →**](https://mizanora.vercel.app) · [**Repo →**](https://github.com/muaaziqbalvip/MIZANORA)
 
-A halal online market for Pakistan: **11,000+ products**, flat delivery, cash on delivery and an Urdu-speaking AI assistant called **Noor** that understands a messy sentence like *"sasta laal joota under 2k"*. Includes a worker/reseller programme with personal links and wallets, a promo-code engine, order tracking, a Quran + Hadith reader, live TV and 38 free tools. The catalogue is cached, so the shop keeps running even when a free quota runs out.
+A halal online market for Pakistan: **11,000+ products**, flat delivery, cash on delivery and an Urdu-speaking AI assistant called **Noor** that understands a messy sentence like *\"sasta laal joota under 2k\"*. Includes a worker/reseller programme with personal links and wallets, a promo-code engine, order tracking, a Quran + Hadith reader, live TV and 38 free tools. The catalogue is cached, so the shop keeps running even when a free quota runs out.
 
 </td>
 <td width="50%" valign="top">
 
 #### 🧠 Asaan Lang — *the language*
-**`Python 3.8+` · `MIT` · `Interpreter + site compiler`**
+**`Python 3.8+`** · **`MIT`** · **Interpreter + site compiler**
 [**Repo →**](https://github.com/muaaziqbalvip/asaan-lang) · [**Site →**](https://asaan-lang.vercel.app)
 
 Pakistan's own programming language. Beginners write `likho`, `agar / warna`, `har` and `kaam` in **Roman-Urdu or Urdu script** — no English wall first. Errors come back in Roman-Urdu with a line number, Urdu digits `۱۲۳` work, and `asaan --web` compiles a program into a real HTML site. Ships with a REPL, a browser playground and a full dictionary of keywords.
@@ -137,16 +176,16 @@ bas
 <td width="50%" valign="top">
 
 #### 📺 BarakatWave TV — *the network*
-**`hls.js` · `FFmpeg` · `IMDb API` · `Vercel`**
+**`hls.js`** · **`FFmpeg`** · **`IMDb API`** · **`Vercel`**
 [**Live →**](https://barakatwave.vercel.app)
 
-A live TV and cinema platform for Pakistan and India: **800 channels**, multi-server relay failover, quality and audio-track switching, picture-in-picture, an IMDb-powered movie/series engine (`tt…` IDs → posters, cast, episodes) and Xtream Codes output that actually works in Televizo, TiviMate, XCIPTV and VLC. There's a four-part broadcast suite — welcome intro, offline card, discontinuity handoff — so no player chokes mid-stream.
+A live TV and cinema platform for Pakistan and India: **800 channels**, multi-server relay failover, quality and audio-track switching, picture-in-picture, an IMDb-powered movie/series engine (`tt…` IDs → posters, cast, episodes) and Xtream Codes output that actually works in Televizo, TiviMate, XCIPTV and VLC. A four-part broadcast suite — welcome intro, offline card, discontinuity handoff — so no player chokes mid-stream.
 
 </td>
 <td width="50%" valign="top">
 
 #### 🎬 SIRAVEX — *the player*
-**`TypeScript` · `PWA` · `IndexedDB` · `HLS.js + Shaka`**
+**`TypeScript`** · **`PWA`** · **`IndexedDB`** · **`HLS.js + Shaka`**
 [**Live →**](https://siravex.vercel.app)
 
 An installable, privacy-first media player for **your own authorised** playlists: M3U import (file or URL), Xtream Codes, XMLTV EPG, series grouping from `S01E02` titles, and an offline app shell. Nothing is bundled and nothing is uploaded — playlists, favourites, progress and settings stay in the browser, and diagnostics show hosts only, never tokens.
@@ -157,7 +196,7 @@ An installable, privacy-first media player for **your own authorised** playlists
 <td width="50%" valign="top">
 
 #### 📈 MI Trade Master — *the app*
-**`Kotlin` · `Jetpack Compose` · `Firebase` · `Groq`**
+**`Kotlin`** · **`Jetpack Compose`** · **`Firebase`** · **`Groq`**
 [**Repo →**](https://github.com/muaaziqbalvip/MITRADERS)
 
 An Android platform to **learn** trading, read charts with AI and practise on paper — no real money, and nothing that pretends the market is a shortcut. Bilingual Urdu + English, Material 3, Firebase auth and a Groq-powered chart reader for beginners who would otherwise be sold a "guaranteed profit" course.
@@ -166,7 +205,7 @@ An Android platform to **learn** trading, read charts with AI and practise on pa
 <td width="50%" valign="top">
 
 #### 🤖 MI Trade Master Bot — *the 24/7 engine*
-**`Python` · `Telegram API` · `GitHub Actions` · `Vision AI`**
+**`Python`** · **`Telegram API`** · **`GitHub Actions`** · **`Vision AI`**
 [**Repo →**](https://github.com/muaaziqbalvip/MI-TRADE-MASTER-TELE-BOT)
 
 A signal bot that runs free, 24/7, with **no server at all**: Smart Money Concepts structure (BOS / HH-HL / LH-LL) fused with RSI, EMA stack, MACD, Bollinger and Stochastic into one confidence score. Send it a screenshot from any platform and it marks the read on *your* image. Multi-key provider rotation, `/logs` diagnostics, per-user preferences.
@@ -243,11 +282,11 @@ A signal bot that runs free, 24/7, with **no server at all**: Smart Money Concep
 
 </details>
 
+</details>
+
 <br />
 
 > Every project above has its own README with setup, secrets and honest limitations. Nothing here is a landing page for a product that doesn't exist.
-
-</details>
 
 <br />
 
@@ -450,6 +489,6 @@ I'm open to **freelance work, collaborations and internships** — especially an
   <img src="./assets/ticker.svg" alt="Mizanora ecosystem: Mizanora, Asaan Lang, BarakatWave TV, SIRAVEX, MI Trade Master, Noor AI" width="100%" />
 </picture>
 
-<sub>Last refreshed · 30 October 2026 · built by hand, tested on a cheap phone</sub>
+<sub>Built by hand, tested on a cheap phone · Kasur, Punjab · Updated 11 November 2026</sub>
 
 </div>
